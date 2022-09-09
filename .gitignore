@@ -1,0 +1,10 @@
+/.settings/
+/.idea/
+/bin/
+*.iml
+target/**
+.DS_Store
+/.mvn/wrapper/**
+/HELP.md
+/mvnw
+/mvnw.cmd
